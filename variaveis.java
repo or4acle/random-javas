@@ -2,6 +2,7 @@ public class variaveis {
     public static void main(String[] args) {
 
         boolean isSigma = true;
+        boolean isGay = false; // é ÓBVIO q isso é falso... wtf??? '-'
         int idade = 69;
         double randNumb = 3.14159;
         char genero = 'M';
