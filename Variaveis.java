@@ -1,4 +1,7 @@
-public class variaveis {
+// 24/06/2026. primeira atividade da série de java do bro code (variables).
+// bem tosco.... OwO
+
+public class Variaveis {
     public static void main(String[] args) {
 
         boolean isSigma = true;
@@ -30,6 +33,5 @@ public class variaveis {
             System.out.println("Ah! Também esqueci de fazer uma última adivinhação: você NÃO " + gayWtf + " e, é " + isSigma + " a afirmação de você ser sigma.");
         }
 
-s
     }
 }
