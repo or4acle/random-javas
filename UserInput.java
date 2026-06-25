@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-/* 25/06/2026
-   testando user input WOOHOOOOOOOOO
-/* espere por mim, microsoft 🤑😈
+// 25/06/2026
+//   testando user input WOOHOOOOOOOOO
+// espere por mim, microsoft 🤑😈
 
-public class UserInput {
+public class userInput {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
